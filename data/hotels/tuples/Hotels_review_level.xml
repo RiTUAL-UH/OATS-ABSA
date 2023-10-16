@@ -235,7 +235,6 @@
 	<Review rid="1048">
 		<text>&gt;Does the job ! A perfect place to crash whilst in transit through Frankfurt . This Hotel is clean, cheap, ideally situated next to the Central train station and staffed by friendly and professional people who do their jobs very well. It isn't exactly a Hilton / Sheraton but in so many ways is so much better ! A honest budget Hotel that will almost certainly exceed your expectations.</text>
 		<Opinions>
-			<Opinion category="HOTEL#MISCELLANEOUS" polarity="Positive"/>
 			<Opinion category="HOTEL#CLEANLINESS" polarity="Positive"/>
 			<Opinion category="HOTEL#PRICES" polarity="Positive"/>
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
@@ -318,6 +317,8 @@
 			<Opinion category="ROOMS#GENERAL" polarity="Positive"/>
 			<Opinion category="HOTEL#DESIGN_FEATURES" polarity="Positive"/>
 			<Opinion category="FACILITIES#COMFORT" polarity="Positive"/>
+			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
+			<Opinion category="ROOM_AMENITIES#GENERAL" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1135">
@@ -354,6 +355,7 @@
 			<Opinion category="FOOD_DRINKS#STYLE_OPTIONS" polarity="Positive"/>
 			<Opinion category="FOOD_DRINKS#MISCELLANEOUS" polarity="Positive"/>
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
+			<Opinion category="ROOMS#PRICES" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1095">
@@ -423,6 +425,7 @@
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
 			<Opinion category="FOOD_DRINKS#QUALITY" polarity="Positive"/>
 			<Opinion category="HOTEL#MISCELLANEOUS" polarity="Positive"/>
+			<Opinion category="ROOM_AMENITIES#COMFORT" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1188">
@@ -631,11 +634,11 @@
 	<Review rid="1864">
 		<text>Rip off! Consumer beware! Arrived to find a depressingly hot, dank, tiny, shabby UNACCEPTABLE room for the $175+taxes. Although I agreed to pay their $50 cancellation fee, my credit card was charged $196.75 for NO services rendered. Surely they rented the room twice that night (April 20) and somebody pocketed some easy money!I want a refund. Why should a consumer be so easily tricked into paying for a bad product site unseen?</text>
 		<Opinions>
-			<Opinion category="HOTEL#GENERAL" polarity="Negative"/>
-			<Opinion category="ROOMS#GENERAL" polarity="Negative"/>
+			<Opinion category="ROOMS#COMFORT" polarity="Negative"/>
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Negative"/>
 			<Opinion category="ROOMS#PRICES" polarity="Negative"/>
-			<Opinion category="HOTEL#PRICES" polarity="Negative"/>
+			<Opinion category="SERVICE#GENERAL" polarity="Negative"/>
+			<Opinion category="ROOMS#CLEANLINESS" polarity="Negative"/>
 		</Opinions>
 	</Review>
 	<Review rid="1507">
@@ -646,7 +649,7 @@
 			<Opinion category="ROOMS#CLEANLINESS" polarity="Positive"/>
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Positive"/>
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
-			<Opinion category="HOTEL#MISCELLANEOUS" polarity="Positive"/>
+			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1910">
@@ -658,7 +661,6 @@
 		<Opinions>
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
-			<Opinion category="FOOD_DRINKS#QUALITY" polarity="Positive"/>
 			<Opinion category="FACILITIES#GENERAL" polarity="Positive"/>
 			<Opinion category="ROOMS#GENERAL" polarity="Positive"/>
 			<Opinion category="ROOMS#PRICES" polarity="Positive"/>
@@ -736,6 +738,7 @@
 			<Opinion category="ROOM_AMENITIES#GENERAL" polarity="Positive"/>
 			<Opinion category="FOOD_DRINKS#QUALITY" polarity="Positive"/>
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
+			<Opinion category="ROOMS#GENERAL" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1870">
@@ -796,7 +799,6 @@
 			<Opinion category="ROOMS#CLEANLINESS" polarity="Positive"/>
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
 			<Opinion category="FOOD_DRINKS#PRICES" polarity="Negative"/>
-			<Opinion category="HOTEL#MISCELLANEOUS" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1123">
@@ -956,14 +958,17 @@
 			<Opinion category="HOTEL#DESIGN_FEATURES" polarity="Negative"/>
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
 			<Opinion category="FACILITIES#DESIGN_FEATURES" polarity="Negative"/>
-			<Opinion category="FACILITIES#MISCELLANEOUS" polarity="Negative"/>
+			<Opinion category="FACILITIES#GENERAL" polarity="Negative"/>
+			<Opinion category="ROOMS#COMFORT" polarity="Positive"/>
+			<Opinion category="ROOMS#GENERAL" polarity="Positive"/>
+			<Opinion category="HOTEL#PRICES" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1032">
 		<text>Location, Location, Location! The location is everything with this hotel, you can even catch the train from Sydney airport and get off right opposite! The room we were originally allocated was upgraded (free of charge) due to a misunderstanding about the bed available for the third person staying with us. We booked via an internet site and were charged $AU140 per night for two nights with a $AU45 tariff for the extra person. If you don't expect 5 star service in this 4 star hotel you won't be disappointed!</text>
 		<Opinions>
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
-			<Opinion category="ROOMS#PRICES" polarity="Positive"/>
+			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
 			<Opinion category="HOTEL#GENERAL" polarity="Neutral"/>
 		</Opinions>
 	</Review>
@@ -1033,7 +1038,7 @@
 		<Opinions>
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
-			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Negative"/>
+			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Conflict"/>
 			<Opinion category="FACILITIES#MISCELLANEOUS" polarity="Positive"/>
 			<Opinion category="FACILITIES#CLEANLINESS" polarity="Positive"/>
 			<Opinion category="FACILITIES#DESIGN_FEATURES" polarity="Positive"/>
@@ -1075,7 +1080,7 @@
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Positive"/>
 			<Opinion category="ROOMS#COMFORT" polarity="Positive"/>
 			<Opinion category="FOOD_DRINKS#QUALITY" polarity="Positive"/>
-			<Opinion category="FOOD_DRINKS#PRICES" polarity="Positive"/>
+			<Opinion category="FACILITIES#PRICES" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1576">
@@ -1111,10 +1116,10 @@
 	<Review rid="1582">
 		<text>firmed reservation, but no room available when we arrived I reserved two rooms several months in advance and confirmed them via email one week before arrival. Nonetheless, we were apologetically told by the staff that they had overbooked and had no rooms available and were transferring us to its sister hotel Colon. Unfortunately, the Colon Hotel rooms turned out to be run down, with stained upholstery, linens, and carpeting, no air conditioning, and an old, lumpy bed. We found a new hotel. I never saw the rooms at the Regencia, so I can't comment on them (the lobby was simple but clean), but the experience was disappointing and stressful as we scrambled to find an acceptable hotel.</text>
 		<Opinions>
-			<Opinion category="HOTEL#MISCELLANEOUS" polarity="Negative"/>
+			<Opinion category="SERVICE#GENERAL" polarity="Negative"/>
 			<Opinion category="HOTEL#GENERAL" polarity="Negative"/>
 			<Opinion category="ROOMS#QUALITY" polarity="Negative"/>
-			<Opinion category="HOTEL#CLEANLINESS" polarity="Negative"/>
+			<Opinion category="ROOM_AMENITIES#CLEANLINESS" polarity="Negative"/>
 			<Opinion category="ROOM_AMENITIES#GENERAL" polarity="Negative"/>
 		</Opinions>
 	</Review>
@@ -1171,6 +1176,7 @@
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Negative"/>
 			<Opinion category="FACILITIES#DESIGN_FEATURES" polarity="Negative"/>
 			<Opinion category="ROOMS#COMFORT" polarity="Negative"/>
+			<Opinion category="ROOM_AMENITIES#CLEANLINESS" polarity="Negative"/>
 		</Opinions>
 	</Review>
 	<Review rid="1590">
@@ -1180,6 +1186,9 @@
 			<Opinion category="ROOM_AMENITIES#QUALITY" polarity="Positive"/>
 			<Opinion category="ROOM_AMENITIES#GENERAL" polarity="Positive"/>
 			<Opinion category="ROOMS#QUALITY" polarity="Positive"/>
+			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
+			<Opinion category="FACILITIES#CLEANLINESS" polarity="Negative"/>
+			<Opinion category="FACILITIES#DESIGN_FEATURES" polarity="Negative"/>
 		</Opinions>
 	</Review>
 	<Review rid="1966">
@@ -1263,7 +1272,7 @@
 		<text>The best. We booked this hotel at the last minute - and what a pleasant surprise. It is more expenseive than we would usually pay - but it was worth every penny. The staff were ever so helpful and the suite had everything you could think of. The hotel is well located for business in the West End and for shopping - we will be back.</text>
 		<Opinions>
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
-			<Opinion category="HOTEL#PRICES" polarity="Positive"/>
+			<Opinion category="HOTEL#PRICES" polarity="Conflict"/>
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
 		</Opinions>
@@ -1310,7 +1319,6 @@
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Positive"/>
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
-			<Opinion category="HOTEL#MISCELLANEOUS" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1141">
@@ -1379,6 +1387,7 @@
 			<Opinion category="HOTEL#CLEANLINESS" polarity="Positive"/>
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
 			<Opinion category="ROOMS#CLEANLINESS" polarity="Positive"/>
+			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1578">
@@ -1401,7 +1410,7 @@
 			<Opinion category="ROOMS#CLEANLINESS" polarity="Positive"/>
 			<Opinion category="FOOD_DRINKS#QUALITY" polarity="Positive"/>
 			<Opinion category="HOTEL#GENERAL" polarity="Negative"/>
-			<Opinion category="HOTEL#MISCELLANEOUS" polarity="Positive"/>
+			<Opinion category="ROOMS#PRICES" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1932">
@@ -1437,7 +1446,6 @@
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
-			<Opinion category="ROOM_AMENITIES#GENERAL" polarity="Positive"/>
 			<Opinion category="ROOMS#CLEANLINESS" polarity="Positive"/>
 			<Opinion category="ROOMS#COMFORT" polarity="Positive"/>
 			<Opinion category="FACILITIES#GENERAL" polarity="Positive"/>
@@ -1504,7 +1512,6 @@
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
 			<Opinion category="HOTEL#CLEANLINESS" polarity="Positive"/>
 			<Opinion category="HOTEL#COMFORT" polarity="Positive"/>
-			<Opinion category="HOTEL#MISCELLANEOUS" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="914">
@@ -1612,7 +1619,6 @@
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Negative"/>
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
 			<Opinion category="ROOM_AMENITIES#GENERAL" polarity="Positive"/>
-			<Opinion category="HOTEL#MISCELLANEOUS" polarity="Negative"/>
 		</Opinions>
 	</Review>
 	<Review rid="1984">
@@ -1647,7 +1653,7 @@
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
 			<Opinion category="HOTEL#COMFORT" polarity="Neutral"/>
-			<Opinion category="HOTEL#MISCELLANEOUS" polarity="Positive"/>
+			<Opinion category="FOOD_DRINKS#QUALITY" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1951">
@@ -1675,7 +1681,6 @@
 		<Opinions>
 			<Opinion category="HOTEL#GENERAL" polarity="Negative"/>
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
-			<Opinion category="HOTEL#MISCELLANEOUS" polarity="Negative"/>
 		</Opinions>
 	</Review>
 	<Review rid="1182">
@@ -1696,12 +1701,10 @@
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
-			<Opinion category="FOOD_DRINKS#QUALITY" polarity="Conflict"/>
-			<Opinion category="FACILITIES#GENERAL" polarity="Positive"/>
+			<Opinion category="FACILITIES#GENERAL" polarity="Conflict"/>
 			<Opinion category="ROOMS#CLEANLINESS" polarity="Positive"/>
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Positive"/>
 			<Opinion category="HOTEL#PRICES" polarity="Negative"/>
-			<Opinion category="FOOD_DRINKS#STYLE_OPTIONS" polarity="Negative"/>
 		</Opinions>
 	</Review>
 	<Review rid="922">
@@ -1762,10 +1765,9 @@
 		<Opinions>
 			<Opinion category="FACILITIES#GENERAL" polarity="Positive"/>
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
-			<Opinion category="HOTEL#MISCELLANEOUS" polarity="Negative"/>
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Negative"/>
-			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
+			<Opinion category="SERVICE#GENERAL" polarity="Conflict"/>
 		</Opinions>
 	</Review>
 	<Review rid="1625">
@@ -1775,7 +1777,8 @@
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
 			<Opinion category="ROOMS#QUALITY" polarity="Positive"/>
 			<Opinion category="ROOMS#CLEANLINESS" polarity="Positive"/>
-			<Opinion category="FACILITIES#PRICES" polarity="Positive"/>
+			<Opinion category="FACILITIES#PRICES" polarity="Negative"/>
+			<Opinion category="HOTEL#PRICES" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1892">
@@ -1795,7 +1798,7 @@
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Negative"/>
 			<Opinion category="ROOMS#QUALITY" polarity="Positive"/>
-			<Opinion category="ROOM_AMENITIES#COMFORT" polarity="Positive"/>
+			<Opinion category="FACILITIES#COMFORT" polarity="Positive"/>
 			<Opinion category="ROOM_AMENITIES#GENERAL" polarity="Positive"/>
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Positive"/>
 			<Opinion category="ROOMS#GENERAL" polarity="Positive"/>
@@ -1817,6 +1820,7 @@
 			<Opinion category="POLARITY#NEGATIVE" polarity="Negative"/>
 			<Opinion category="ROOMS#COMFORT" polarity="Negative"/>
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Negative"/>
+			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="941">
@@ -1830,8 +1834,8 @@
 		<text>wonderful benefits I was thrilled when I called Seattle Pacific Hotel and was given a fantastic weekly rate. During my stay all personnel were always responsive to my needs. I had a very late flight out of Seattle the day I left, and I was allowed to stay longer in my room with no extra charge. All the people at the hotel were very accommodating. I will definitely stay there again. Lucy Wrigh</text>
 		<Opinions>
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
-			<Opinion category="HOTEL#PRICES" polarity="Positive"/>
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
+			<Opinion category="HOTEL#PRICES" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1523">
@@ -1928,6 +1932,8 @@
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Positive"/>
 			<Opinion category="ROOMS#PRICES" polarity="Positive"/>
 			<Opinion category="FOOD_DRINKS#PRICES" polarity="Negative"/>
+			<Opinion category="ROOM_AMENITIES#DESIGN_FEATURES" polarity="Positive"/>
+			<Opinion category="ROOM_AMENITIES#CLEANLINESS" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1544">
@@ -1976,6 +1982,7 @@
 			<Opinion category="HOTEL#PRICES" polarity="Positive"/>
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
+			<Opinion category="ROOMS#GENERAL" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1949">
@@ -2001,7 +2008,7 @@
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
-			<Opinion category="FOOD_DRINKS#QUALITY" polarity="Positive"/>
+			<Opinion category="FACILITIES#GENERAL" polarity="Positive"/>
 			<Opinion category="HOTEL#QUALITY" polarity="Positive"/>
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Negative"/>
 		</Opinions>
@@ -2044,6 +2051,7 @@
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Positive"/>
 			<Opinion category="FOOD_DRINKS#PRICES" polarity="Negative"/>
 			<Opinion category="FACILITIES#GENERAL" polarity="Negative"/>
+			<Opinion category="FACILITIES#DESIGN_FEATURES" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="916">
@@ -2084,6 +2092,7 @@
 			<Opinion category="FOOD_DRINKS#PRICES" polarity="Negative"/>
 			<Opinion category="SERVICE#GENERAL" polarity="Negative"/>
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
+			<Opinion category="HOTEL#DESIGN_FEATURES" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1546">
@@ -2093,8 +2102,6 @@
 	<Review rid="1562">
 		<text>lose to Convention Center About 2 blocks to convention center. Stay here on business if main purpose is convention center. Wouldn't stay here for vacation. Not in a very good area, not close to any restaurants. Walls are very thin. Rooms are clean.</text>
 		<Opinions>
-			<Opinion category="HOTEL#MISCELLANEOUS" polarity="Positive"/>
-			<Opinion category="HOTEL#GENERAL" polarity="Negative"/>
 			<Opinion category="LOCATION#GENERAL" polarity="Negative"/>
 			<Opinion category="ROOMS#QUALITY" polarity="Negative"/>
 			<Opinion category="ROOMS#CLEANLINESS" polarity="Positive"/>
@@ -2171,7 +2178,6 @@
 			<Opinion category="HOTEL#PRICES" polarity="Positive"/>
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
 			<Opinion category="FACILITIES#GENERAL" polarity="Positive"/>
-			<Opinion category="HOTEL#MISCELLANEOUS" polarity="Positive"/>
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
 		</Opinions>
 	</Review>
@@ -2183,6 +2189,8 @@
 			<Opinion category="ROOM_AMENITIES#GENERAL" polarity="Positive"/>
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Positive"/>
 			<Opinion category="FOOD_DRINKS#PRICES" polarity="Positive"/>
+			<Opinion category="FOOD_DRINKS#QUALITY" polarity="Positive"/>
+			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1982">
@@ -2340,8 +2348,8 @@
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
 			<Opinion category="ROOMS#GENERAL" polarity="Positive"/>
 			<Opinion category="ROOMS#CLEANLINESS" polarity="Positive"/>
-			<Opinion category="ROOMS#COMFORT" polarity="Positive"/>
-			<Opinion category="FOOD_DRINKS#QUALITY" polarity="Positive"/>
+			<Opinion category="ROOM_AMENITIES#COMFORT" polarity="Positive"/>
+			<Opinion category="FACILITIES#GENERAL" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1066">
@@ -2387,7 +2395,7 @@
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Positive"/>
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
-			<Opinion category="FOOD_DRINKS#QUALITY" polarity="Positive"/>
+			<Opinion category="FACILITIES#GENERAL" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1877">
@@ -2416,7 +2424,7 @@
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Negative"/>
 			<Opinion category="ROOMS#CLEANLINESS" polarity="Positive"/>
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
-			<Opinion category="ROOMS#MISCELLANEOUS" polarity="Negative"/>
+			<Opinion category="ROOMS#GENERAL" polarity="Negative"/>
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
 		</Opinions>
 	</Review>
@@ -2464,9 +2472,10 @@
 		<text>Port hole window for 400 bucks We paid for a nice room we got an ok room (big enough) but with no window. When we booked we were told it would be a view of the harbour faicng Balmain. Sorry we got a port hole window and the staff lied about the other rooms. In the end we had to downgrade to get a view ( no money bacK).We will never go again.</text>
 		<Opinions>
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Positive"/>
-			<Opinion category="ROOMS#GENERAL" polarity="Negative"/>
+			<Opinion category="ROOMS#GENERAL" polarity="Conflict"/>
 			<Opinion category="SERVICE#GENERAL" polarity="Negative"/>
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
+			<Opinion category="ROOMS#PRICES" polarity="Negative"/>
 		</Opinions>
 	</Review>
 	<Review rid="1111">
@@ -2506,6 +2515,7 @@
 			<Opinion category="LOCATION#GENERAL" polarity="Neutral"/>
 			<Opinion category="ROOMS#CLEANLINESS" polarity="Positive"/>
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Positive"/>
+			<Opinion category="ROOMS#GENERAL" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1029">
@@ -2513,7 +2523,8 @@
 		<Opinions>
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
 			<Opinion category="HOTEL#DESIGN_FEATURES" polarity="Positive"/>
-			<Opinion category="FACILITIES#QUALITY" polarity="Positive"/>
+			<Opinion category="FACILITIES#MISCELLANEOUS" polarity="Positive"/>
+			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="984">
@@ -2699,7 +2710,6 @@
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Negative"/>
 			<Opinion category="ROOMS#CLEANLINESS" polarity="Positive"/>
 			<Opinion category="FOOD_DRINKS#PRICES" polarity="Positive"/>
-			<Opinion category="FOOD_DRINKS#STYLE_OPTIONS" polarity="Positive"/>
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
 		</Opinions>
 	</Review>
@@ -2767,6 +2777,7 @@
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Negative"/>
 			<Opinion category="ROOMS#COMFORT" polarity="Negative"/>
 			<Opinion category="HOTEL#MISCELLANEOUS" polarity="Positive"/>
+			<Opinion category="ROOMS#PRICES" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1858">
@@ -2777,7 +2788,7 @@
 			<Opinion category="ROOMS#CLEANLINESS" polarity="Positive"/>
 			<Opinion category="ROOMS#COMFORT" polarity="Positive"/>
 			<Opinion category="FOOD_DRINKS#QUALITY" polarity="Positive"/>
-			<Opinion category="HOTEL#DESIGN_FEATURES" polarity="Positive"/>
+			<Opinion category="FACILITIES#GENERAL" polarity="Positive"/>
 			<Opinion category="SERVICE#GENERAL" polarity="Conflict"/>
 		</Opinions>
 	</Review>
@@ -2836,6 +2847,7 @@
 			<Opinion category="ROOMS#GENERAL" polarity="Positive"/>
 			<Opinion category="ROOMS#COMFORT" polarity="Positive"/>
 			<Opinion category="FOOD_DRINKS#PRICES" polarity="Positive"/>
+			<Opinion category="ROOM_AMENITIES#QUALITY" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1062">
@@ -2854,7 +2866,7 @@
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Positive"/>
 			<Opinion category="ROOMS#COMFORT" polarity="Positive"/>
 			<Opinion category="ROOMS#QUALITY" polarity="Negative"/>
-			<Opinion category="ROOMS#MISCELLANEOUS" polarity="Negative"/>
+			<Opinion category="ROOMS#GENERAL" polarity="Negative"/>
 			<Opinion category="FOOD_DRINKS#PRICES" polarity="Negative"/>
 		</Opinions>
 	</Review>
@@ -2880,9 +2892,10 @@
 		<Opinions>
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
-			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Negative"/>
-			<Opinion category="ROOM_AMENITIES#GENERAL" polarity="Positive"/>
+			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Conflict"/>
 			<Opinion category="FOOD_DRINKS#STYLE_OPTIONS" polarity="Negative"/>
+			<Opinion category="ROOM_AMENITIES#DESIGN_FEATURES" polarity="Positive"/>
+			<Opinion category="ROOMS#GENERAL" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1528">
@@ -2952,7 +2965,7 @@
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
 			<Opinion category="FOOD_DRINKS#QUALITY" polarity="Positive"/>
 			<Opinion category="FOOD_DRINKS#PRICES" polarity="Positive"/>
-			<Opinion category="HOTEL#MISCELLANEOUS" polarity="Positive"/>
+			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1851">
@@ -2963,6 +2976,7 @@
 			<Opinion category="ROOM_AMENITIES#GENERAL" polarity="Positive"/>
 			<Opinion category="FOOD_DRINKS#QUALITY" polarity="Positive"/>
 			<Opinion category="HOTEL#MISCELLANEOUS" polarity="Positive"/>
+			<Opinion category="ROOMS#PRICES" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="936">
@@ -2979,7 +2993,7 @@
 		<Opinions>
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
-			<Opinion category="ROOMS#GENERAL" polarity="Positive"/>
+			<Opinion category="ROOMS#QUALITY" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1957">
@@ -2995,6 +3009,7 @@
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Positive"/>
 			<Opinion category="ROOMS#COMFORT" polarity="Positive"/>
+			<Opinion category="FOOD_DRINKS#QUALITY" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1187">
@@ -3104,7 +3119,7 @@
 		<Opinions>
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
-			<Opinion category="HOTEL#MISCELLANEOUS" polarity="Positive"/>
+			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="995">
@@ -3306,6 +3321,7 @@
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
 			<Opinion category="FOOD_DRINKS#PRICES" polarity="Negative"/>
 			<Opinion category="FACILITIES#COMFORT" polarity="Neutral"/>
+			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1553">
@@ -3555,10 +3571,10 @@
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Positive"/>
-			<Opinion category="FACILITIES#MISCELLANEOUS" polarity="Negative"/>
 			<Opinion category="FACILITIES#DESIGN_FEATURES" polarity="Positive"/>
 			<Opinion category="FOOD_DRINKS#QUALITY" polarity="Positive"/>
 			<Opinion category="FACILITIES#GENERAL" polarity="Positive"/>
+			<Opinion category="LOCATION#GENERAL" polarity="Negative"/>
 		</Opinions>
 	</Review>
 	<Review rid="1880">
@@ -3659,17 +3675,15 @@
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Positive"/>
 			<Opinion category="ROOMS#COMFORT" polarity="Positive"/>
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
-			<Opinion category="HOTEL#MISCELLANEOUS" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1863">
 		<text>My Birthday meal I havnt stayed at this hotel but while staying in Barcelona my wife took me to the Torres for a meal on my birthday. The views are astounding and we were given a table with excellent views of the Magic Fountains which started performing at 21.00 hrs and the show was spectacular. The food was excellent and the staff were extremely helpfull and also very knowledgeable about the menus, wine and food. I am a qualifed Chef and my wife and I have eaten in some of the best restaurants in the world including what is listed as THE best restaurant in the world at the moment by renowned Chefs, The Fat Duck in Bray, UK and found the food and service in The Torres to be of an extremely high standard. This hotel is NOT situated in a run-down area of Barcelona as a previous reviewer has stated.</text>
 		<Opinions>
-			<Opinion category="HOTEL#DESIGN_FEATURES" polarity="Positive"/>
+			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
 			<Opinion category="FOOD_DRINKS#QUALITY" polarity="Positive"/>
-			<Opinion category="FOOD_DRINKS#QUALITY" polarity="Positive"/>
-			<Opinion category="LOCATION#GENERAL" polarity="Neutral"/>
+			<Opinion category="LOCATION#GENERAL" polarity="Negative"/>
 		</Opinions>
 	</Review>
 	<Review rid="1121">
@@ -3716,6 +3730,7 @@
 			<Opinion category="ROOMS#COMFORT" polarity="Negative"/>
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Negative"/>
 			<Opinion category="FACILITIES#DESIGN_FEATURES" polarity="Negative"/>
+			<Opinion category="ROOMS#GENERAL" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1547">
@@ -3762,9 +3777,9 @@
 		<text>Perpetual Guest We first found this hotel four years ago. Although the rooms are small, the privacy, ambience and staff more than make up for the lack of space. The bar, restaurant and reading room are unique and welcomed in an ever busy non-personal transit world of the traveller. Recommend to those who do not like the high end hotel chains but still want to benefit from the luxury.</text>
 		<Opinions>
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Negative"/>
-			<Opinion category="HOTEL#DESIGN_FEATURES" polarity="Positive"/>
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
-			<Opinion category="HOTEL#MISCELLANEOUS" polarity="Positive"/>
+			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
+			<Opinion category="ROOMS#COMFORT" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1869">
@@ -3773,6 +3788,7 @@
 			<Opinion category="HOTEL#DESIGN_FEATURES" polarity="Positive"/>
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
 			<Opinion category="FOOD_DRINKS#QUALITY" polarity="Positive"/>
+			<Opinion category="FACILITIES#GENERAL" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1527">
@@ -3799,7 +3815,6 @@
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Positive"/>
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
-			<Opinion category="HOTEL#MISCELLANEOUS" polarity="Positive"/>
 			<Opinion category="FOOD_DRINKS#QUALITY" polarity="Positive"/>
 			<Opinion category="FACILITIES#PRICES" polarity="Positive"/>
 		</Opinions>
@@ -3832,12 +3847,13 @@
 			<Opinion category="ROOMS#GENERAL" polarity="Positive"/>
 			<Opinion category="FOOD_DRINKS#PRICES" polarity="Positive"/>
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
+			<Opinion category="FOOD_DRINKS#QUALITY" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1859">
 		<text>Not too big, not too little. . . .but just right! Garden Gazeb</text>
 		<Opinions>
-			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
+			<Opinion category="HOTEL#GENERAL" polarity="Neutral"/>
 		</Opinions>
 	</Review>
 	<Review rid="1134">
@@ -3888,6 +3904,8 @@
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
 			<Opinion category="FACILITIES#GENERAL" polarity="Positive"/>
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
+			<Opinion category="ROOMS#GENERAL" polarity="Positive"/>
+			<Opinion category="ROOMS#QUALITY" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1607">
@@ -3972,13 +3990,14 @@
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
 			<Opinion category="FACILITIES#PRICES" polarity="Negative"/>
 			<Opinion category="FOOD_DRINKS#QUALITY" polarity="Positive"/>
+			<Opinion category="ROOM_AMENITIES#PRICES" polarity="Negative"/>
 		</Opinions>
 	</Review>
 	<Review rid="1163">
 		<text>Good hotel, problem with a burger I stayed here after a Red River Shootout, and it was good. The room was cozy and it was easy to access. My only problem is that they toast the buns to their burgers, and it's a little crunchy on the outer edge, which I don't like. Otherwise, it was a nice night for me.</text>
 		<Opinions>
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
-			<Opinion category="FOOD_DRINKS#MISCELLANEOUS" polarity="Negative"/>
+			<Opinion category="FOOD_DRINKS#QUALITY" polarity="Negative"/>
 			<Opinion category="ROOMS#COMFORT" polarity="Positive"/>
 			<Opinion category="ROOMS#GENERAL" polarity="Positive"/>
 		</Opinions>
@@ -4019,6 +4038,7 @@
 			<Opinion category="ROOM_AMENITIES#GENERAL" polarity="Positive"/>
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
+			<Opinion category="HOTEL#DESIGN_FEATURES" polarity="Negative"/>
 		</Opinions>
 	</Review>
 	<Review rid="1007">
@@ -4109,7 +4129,6 @@
 	<Review rid="1850">
 		<text>single room double price I had booked a double room through a website, then I called to check if there was a single available as I was going to be on my own. They said fine, no problem, but don't bother to cancel the original booking. We'll take care of it when you arrive. When I got there I was given a very small room with just ONE single bed, so I expected a single room rate as well. But when I checked out I realized that was not the case. Single room, double price.</text>
 		<Opinions>
-			<Opinion category="HOTEL#PRICES" polarity="Negative"/>
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Negative"/>
 			<Opinion category="ROOMS#PRICES" polarity="Negative"/>
 		</Opinions>
@@ -4120,7 +4139,7 @@
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
 			<Opinion category="ROOMS#GENERAL" polarity="Positive"/>
 			<Opinion category="ROOM_AMENITIES#GENERAL" polarity="Positive"/>
-			<Opinion category="HOTEL#PRICES" polarity="Negative"/>
+			<Opinion category="HOTEL#PRICES" polarity="Conflict"/>
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
 		</Opinions>
 	</Review>
@@ -4131,6 +4150,8 @@
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Positive"/>
 			<Opinion category="ROOM_AMENITIES#DESIGN_FEATURES" polarity="Positive"/>
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
+			<Opinion category="ROOMS#GENERAL" polarity="Positive"/>
+			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1061">
@@ -4172,7 +4193,7 @@
 			<Opinion category="HOTEL#PRICES" polarity="Positive"/>
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Positive"/>
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
-			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
+			<Opinion category="SERVICE#GENERAL" polarity="Conflict"/>
 		</Opinions>
 	</Review>
 	<Review rid="1923">
@@ -4229,8 +4250,8 @@
 		<text>Great Atmosphere If you are looking for something at little out of the ordinary stay at the hotel Zaza. Everything about the place is unique. The quality of the service and back drops are not great, but if you can overlook the details it is worth the stay. We really loved the movies playing on the outside of the building when you arrive and depart in the evenings.</text>
 		<Opinions>
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
-			<Opinion category="HOTEL#MISCELLANEOUS" polarity="Positive"/>
 			<Opinion category="SERVICE#GENERAL" polarity="Negative"/>
+			<Opinion category="HOTEL#MISCELLANEOUS" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1526">
@@ -4289,7 +4310,7 @@
 			<Opinion category="ROOMS#CLEANLINESS" polarity="Positive"/>
 			<Opinion category="ROOMS#QUALITY" polarity="Positive"/>
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
-			<Opinion category="HOTEL#MISCELLANEOUS" polarity="Positive"/>
+			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
 			<Opinion category="ROOM_AMENITIES#QUALITY" polarity="Positive"/>
 		</Opinions>
 	</Review>
@@ -4345,6 +4366,7 @@
 			<Opinion category="HOTEL#PRICES" polarity="Positive"/>
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Negative"/>
 			<Opinion category="HOTEL#MISCELLANEOUS" polarity="Positive"/>
+			<Opinion category="ROOMS#GENERAL" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1556">
@@ -4373,7 +4395,6 @@
 		<text>Recommend Bernini Palace I stayed in the Bernini Palace Hotel at Easter 2005. Although the lobby and first floor are recently under renovation the hotel is very, very good. Beautiful bedrooms with nice bathrooms and a great breakfast. And in the very middle of Florence. You can`t find anything better.</text>
 		<Opinions>
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
-			<Opinion category="HOTEL#MISCELLANEOUS" polarity="Negative"/>
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Positive"/>
 			<Opinion category="ROOMS#GENERAL" polarity="Positive"/>
 			<Opinion category="FOOD_DRINKS#QUALITY" polarity="Positive"/>
@@ -4406,7 +4427,7 @@
 		<Opinions>
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
-			<Opinion category="HOTEL#DESIGN_FEATURES" polarity="Positive"/>
+			<Opinion category="HOTEL#DESIGN_FEATURES" polarity="Negative"/>
 		</Opinions>
 	</Review>
 	<Review rid="1022">
@@ -4463,6 +4484,7 @@
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
 			<Opinion category="FOOD_DRINKS#PRICES" polarity="Positive"/>
 			<Opinion category="FOOD_DRINKS#QUALITY" polarity="Positive"/>
+			<Opinion category="ROOMS#COMFORT" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1088">
@@ -4503,7 +4525,6 @@
 			<Opinion category="HOTEL#DESIGN_FEATURES" polarity="Positive"/>
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
 			<Opinion category="ROOM_AMENITIES#PRICES" polarity="Positive"/>
-			<Opinion category="HOTEL#PRICES" polarity="Positive"/>
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
 		</Opinions>
 	</Review>
@@ -4559,6 +4580,7 @@
 			<Opinion category="FOOD_DRINKS#QUALITY" polarity="Positive"/>
 			<Opinion category="FOOD_DRINKS#PRICES" polarity="Negative"/>
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
+			<Opinion category="HOTEL#DESIGN_FEATURES" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1071">
@@ -4632,6 +4654,7 @@
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
 			<Opinion category="HOTEL#COMFORT" polarity="Positive"/>
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
+			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="912">
@@ -4640,6 +4663,9 @@
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
 			<Opinion category="FOOD_DRINKS#QUALITY" polarity="Positive"/>
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
+			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
+			<Opinion category="ROOMS#CLEANLINESS" polarity="Positive"/>
+			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1938">
@@ -4660,6 +4686,7 @@
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Positive"/>
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
+			<Opinion category="FACILITIES#GENERAL" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1994">
@@ -4721,7 +4748,7 @@
 			<Opinion category="FOOD_DRINKS#PRICES" polarity="Negative"/>
 			<Opinion category="HOTEL#DESIGN_FEATURES" polarity="Positive"/>
 			<Opinion category="FOOD_DRINKS#QUALITY" polarity="Negative"/>
-			<Opinion category="HOTEL#MISCELLANEOUS" polarity="Positive"/>
+			<Opinion category="FACILITIES#PRICES" polarity="Negative"/>
 		</Opinions>
 	</Review>
 	<Review rid="1180">
@@ -4731,6 +4758,7 @@
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
 			<Opinion category="HOTEL#DESIGN_FEATURES" polarity="Positive"/>
 			<Opinion category="FACILITIES#GENERAL" polarity="Neutral"/>
+			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1609">
@@ -4855,7 +4883,6 @@
 	<Review rid="1020">
 		<text>Great Views, Great Hotel I had the pleasure of staying here for a few days and must say that this is one of the better hotels in the country. I was in room 3905 which had a great view of the golden gate bridge in the background. Staff can't do enough for you, they always call you by name. Didn't eat in the hotel restaurant Silks, but everything else in the hotel is top notch. They had a good rate of $395 a night for a room which normally sells for $610 a night.</text>
 		<Opinions>
-			<Opinion category="HOTEL#DESIGN_FEATURES" polarity="Positive"/>
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Positive"/>
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
@@ -5036,7 +5063,6 @@
 			<Opinion category="ROOMS#GENERAL" polarity="Negative"/>
 			<Opinion category="ROOMS#COMFORT" polarity="Positive"/>
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
-			<Opinion category="HOTEL#MISCELLANEOUS" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1874">
@@ -5057,6 +5083,7 @@
 			<Opinion category="FOOD_DRINKS#PRICES" polarity="Positive"/>
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
+			<Opinion category="FOOD_DRINKS#STYLE_OPTIONS" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="982">
@@ -5228,6 +5255,7 @@
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
 			<Opinion category="FOOD_DRINKS#QUALITY" polarity="Positive"/>
 			<Opinion category="ROOMS#COMFORT" polarity="Positive"/>
+			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="939">
@@ -5239,6 +5267,7 @@
 			<Opinion category="FOOD_DRINKS#STYLE_OPTIONS" polarity="Positive"/>
 			<Opinion category="HOTEL#PRICES" polarity="Positive"/>
 			<Opinion category="HOTEL#MISCELLANEOUS" polarity="Positive"/>
+			<Opinion category="HOTEL#COMFORT" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1146">
@@ -5306,6 +5335,7 @@
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
 			<Opinion category="FOOD_DRINKS#QUALITY" polarity="Positive"/>
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
+			<Opinion category="FOOD_DRINKS#STYLE_OPTIONS" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="1961">
@@ -5319,7 +5349,7 @@
 			<Opinion category="HOTEL#GENERAL" polarity="Neutral"/>
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
 			<Opinion category="FOOD_DRINKS#QUALITY" polarity="Positive"/>
-			<Opinion category="HOTEL#COMFORT" polarity="Negative"/>
+			<Opinion category="FACILITIES#COMFORT" polarity="Negative"/>
 		</Opinions>
 	</Review>
 	<Review rid="1940">
@@ -5377,16 +5407,15 @@
 		<text>mfortable, Clean,  Stayed at the Ohana West from 1/22-1/29/05, was pleasantly surprised after reading many mixed reviews. We had a city/mountain view, king room, on the 16th floor with a nice size lanai, the room was a little small, but clean and comfortable. The daily housekeeping service was very prompt and did a very good job, and all the staff at the hotel demonstrated excellent customer service. The location of this hotel is perfect, it is centrally located to all the great things to do in Oahu. If your looking for a 5 star hotel this is not the place, but if your looking for a nice place with reasonable rates and great service, then this is the place to stay.</text>
 		<Opinions>
 			<Opinion category="HOTEL#COMFORT" polarity="Positive"/>
-			<Opinion category="HOTEL#COMFORT" polarity="Positive"/>
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
-			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Positive"/>
-			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Negative"/>
+			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Conflict"/>
 			<Opinion category="ROOMS#CLEANLINESS" polarity="Positive"/>
 			<Opinion category="ROOMS#COMFORT" polarity="Positive"/>
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
 			<Opinion category="HOTEL#QUALITY" polarity="Negative"/>
 			<Opinion category="HOTEL#PRICES" polarity="Positive"/>
+			<Opinion category="ROOMS#GENERAL" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="399">
@@ -5417,7 +5446,14 @@
 	<Review rid="416">
 		<text>Great small hotel Spent a week at the Hotel de londres eiffel. English speaking staff. Clean rooms but small. No restaurant but plenty others close at hand. If you are not looking for luxury and want to experience the local atmosphere I would recommend this hotel. A bonus is that it is 3 blocks from the Eiffel Tower.</text>
 		<Opinions>
-			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
+			<Opinion category="HOTEL#GENERAL" polarity="Conflict"/>
+			<Opinion category="HOTEL#DESIGN_FEATURES" polarity="Negative"/>
+			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
+			<Opinion category="ROOMS#CLEANLINESS" polarity="Positive"/>
+			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Negative"/>
+			<Opinion category="FACILITIES#GENERAL" polarity="Negative"/>
+			<Opinion category="HOTEL#COMFORT" polarity="Negative"/>
+			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="371">
@@ -5594,7 +5630,6 @@
 		<text>Efficient and well run OK it will not win prizes for personality but the rooms are a good size in a great location with comfortable beds - what more do you need?A few tips breakfast is very expensive but if your happy to pay 22 euro each its a good spread but I would advise you to try some of the nearby cafes more BerlinI upgraded to one of the suites it was only a small addition to the price but well worth it and dont be put off by courtyard view rooms they are fine .</text>
 		<Opinions>
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
-			<Opinion category="HOTEL#DESIGN_FEATURES" polarity="Negative"/>
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Positive"/>
 			<Opinion category="ROOM_AMENITIES#COMFORT" polarity="Positive"/>
 			<Opinion category="FOOD_DRINKS#PRICES" polarity="Negative"/>
@@ -5609,7 +5644,6 @@
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
 			<Opinion category="ROOMS#COMFORT" polarity="Positive"/>
 			<Opinion category="ROOM_AMENITIES#GENERAL" polarity="Positive"/>
-			<Opinion category="HOTEL#MISCELLANEOUS" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="383">
@@ -5792,7 +5826,6 @@
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
 			<Opinion category="ROOMS#COMFORT" polarity="Negative"/>
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
-			<Opinion category="HOTEL#MISCELLANEOUS" polarity="Positive"/>
 			<Opinion category="ROOMS#GENERAL" polarity="Positive"/>
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
 		</Opinions>
@@ -5884,7 +5917,6 @@
 			<Opinion category="HOTEL#PRICES" polarity="Positive"/>
 			<Opinion category="HOTEL#CLEANLINESS" polarity="Positive"/>
 			<Opinion category="LOCATION#GENERAL" polarity="Neutral"/>
-			<Opinion category="HOTEL#MISCELLANEOUS" polarity="Positive"/>
 			<Opinion category="FACILITIES#GENERAL" polarity="Positive"/>
 			<Opinion category="HOTEL#COMFORT" polarity="Positive"/>
 			<Opinion category="HOTEL#DESIGN_FEATURES" polarity="Positive"/>
@@ -5893,7 +5925,13 @@
 	</Review>
 	<Review rid="433">
 		<text>Cool I found the W Seattle to be as advertized - trendy, pricey and spectacular. The rooms are more spacious than other W's I've stayed at and the service was impeccable. The views of Puget Sound and downtown were nothing short of breathtaking. If you don't mind spending a bit more, the W is for you.</text>
-		<Opinions/>
+		<Opinions>
+			<Opinion category="HOTEL#PRICES" polarity="Negative"/>
+			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
+			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Positive"/>
+			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
+			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
+		</Opinions>
 	</Review>
 	<Review rid="419">
 		<text>Loved it! We stayed here in June 2007 and had a wonderful experience. Perfect location with a beautiful terrace overlooking the quiet San Martin plaza. Clean, comfortable, spacious rooms with friendly bilingual staff. Awesome buffet breakfast that is available until noon.</text>
@@ -6036,6 +6074,7 @@
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
 			<Opinion category="FACILITIES#QUALITY" polarity="Positive"/>
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
+			<Opinion category="FACILITIES#COMFORT" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="426">
@@ -6406,7 +6445,7 @@
 			<Opinion category="ROOMS#DESIGN_FEATURES" polarity="Positive"/>
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
 			<Opinion category="FACILITIES#DESIGN_FEATURES" polarity="Positive"/>
-			<Opinion category="HOTEL#MISCELLANEOUS" polarity="Positive"/>
+			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="311">
@@ -6529,7 +6568,7 @@
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
 			<Opinion category="ROOMS#QUALITY" polarity="Positive"/>
 			<Opinion category="FOOD_DRINKS#QUALITY" polarity="Positive"/>
-			<Opinion category="ROOMS#GENERAL" polarity="Positive"/>
+			<Opinion category="FACILITIES#GENERAL" polarity="Positive"/>
 			<Opinion category="SERVICE#GENERAL" polarity="Positive"/>
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
 		</Opinions>
@@ -6594,6 +6633,7 @@
 			<Opinion category="ROOMS#QUALITY" polarity="Positive"/>
 			<Opinion category="HOTEL#GENERAL" polarity="Positive"/>
 			<Opinion category="LOCATION#GENERAL" polarity="Negative"/>
+			<Opinion category="ROOM_AMENITIES#GENERAL" polarity="Positive"/>
 		</Opinions>
 	</Review>
 	<Review rid="446">
@@ -6802,7 +6842,6 @@
 			<Opinion category="HOTEL#CLEANLINESS" polarity="Positive"/>
 			<Opinion category="LOCATION#GENERAL" polarity="Positive"/>
 			<Opinion category="ROOM_AMENITIES#QUALITY" polarity="Positive"/>
-			<Opinion category="HOTEL#MISCELLANEOUS" polarity="Positive"/>
 			<Opinion category="HOTEL#COMFORT" polarity="Positive"/>
 		</Opinions>
 	</Review>
