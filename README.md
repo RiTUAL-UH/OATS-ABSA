@@ -16,7 +16,15 @@ Each of these datasets can be found under their respective folders in the data/ 
 _{domain}_: \[amazon_ff, coursera, hotels\]
 
 If you use this dataset in your research, please cite the following paper: 
-[Paper link coming up]()
+[OATS: Opinion Aspect Target Sentiment Quadruple Extraction Dataset for Aspect-Based Sentiment Analysis](https://arxiv.org/abs/2309.13297)
 ```
-paper citation coming up
+@misc{chebolu2023oats,
+      title={OATS: Opinion Aspect Target Sentiment Quadruple Extraction Dataset for Aspect-Based Sentiment Analysis}, 
+      author={Siva Uday Sampreeth Chebolu and Franck Dernoncourt and Nedim Lipka and Thamar Solorio},
+      year={2023},
+      eprint={2309.13297},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
 ```
