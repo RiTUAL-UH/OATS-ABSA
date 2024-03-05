@@ -17,6 +17,7 @@ _{domain}_: \[amazon_ff, coursera, hotels\]
 
 If you use this dataset in your research, please cite the following paper: 
 [OATS: Opinion Aspect Target Sentiment Quadruple Extraction Dataset for Aspect-Based Sentiment Analysis](https://arxiv.org/abs/2309.13297)
+This paper is accepted at **LREC/COLING 2024** and the proceedings link will be updated soon!!
 ```
 @misc{chebolu2023oats,
       title={OATS: Opinion Aspect Target Sentiment Quadruple Extraction Dataset for Aspect-Based Sentiment Analysis}, 
