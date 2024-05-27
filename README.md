@@ -20,13 +20,20 @@ If you use this dataset in your research, please cite the following paper:
 
 This paper is accepted at **LREC/COLING 2024** and the proceedings link will be updated soon!!
 ```
-@misc{chebolu2023oats,
-      title={OATS: Opinion Aspect Target Sentiment Quadruple Extraction Dataset for Aspect-Based Sentiment Analysis}, 
-      author={Siva Uday Sampreeth Chebolu and Franck Dernoncourt and Nedim Lipka and Thamar Solorio},
-      year={2023},
-      eprint={2309.13297},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{chebolu-etal-2024-oats-challenge,
+    title = "{OATS}: A Challenge Dataset for Opinion Aspect Target Sentiment Joint Detection for Aspect-Based Sentiment Analysis",
+    author = "Chebolu, Siva Uday Sampreeth  and
+      Dernoncourt, Franck  and
+      Lipka, Nedim  and
+      Solorio, Thamar",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = may,
+    year = "2024",
+    address = "Torino, Italia",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.1080",
+    pages = "12336--12347",
 }
+
 
 ```
